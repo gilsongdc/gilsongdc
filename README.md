@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://githubusercontent.com" width="450" alt="Gilson Dev">
+  <img src="foto gihub perfil.png" width="450" alt="Gilson Dev">
 </p>
-
 # Olá, eu sou o Gilson! 👋
 
 🌱 **Desenvolvedor Python em evolução**
