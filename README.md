@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="foto_github_perfil.png" width="450" alt="Gilson Dev">
+  <img src="https://githubusercontent.com" width="450" alt="Gilson Dev">
 </p>
 
 # Olá, eu sou o Gilson! 👋
