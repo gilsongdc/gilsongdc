@@ -3,7 +3,7 @@
 </p>
 # Olá, eu sou o Gilson! 👋
 
-🌱 **Desenvolvedor Python em evolução**
+🌱 Estudante de Python | Desenvolvedor em evolução
 
 Bem-vindo ao meu perfil! Aqui eu compartilho a evolução dos meus estudos de programação e lógica.
 
